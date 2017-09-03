@@ -24,11 +24,12 @@ const styles = {
         color: '#000',
         paddingRight: 5,
         paddingLeft: 5,
-        fontSize: 18,
+        fontSize: 14,
         lineHeight: 23,
         flex: 2,
     },
     labelStyle: {
+        color:'#333',
         fontSize: 18,
         paddingLeft: 20,
         flex: 1,

@@ -6,7 +6,7 @@ const Button = ({onPress, children}) => {
     const {buttonStyle, buttonTextStyle} = styles;
 
     return (
-        <TouchableOpacity onPress={onPress} style={ buttonStyle}>
+        <TouchableOpacity onPress={onPress} style={buttonStyle}>
             <Text style={buttonTextStyle}>
                 {children}
             </Text>
