@@ -22,7 +22,7 @@ class LoginForm extends Component {
 
     onLoginFail(){
         this.setState({
-            error: 'Authentication Falied.',
+            error: 'Authentication Failed.',
             loading: false
         });
     }
@@ -89,6 +89,6 @@ const styles = {
         alignSelf: 'center',
         color: 'red'
     }
-}
+};
 
 export default LoginForm;
