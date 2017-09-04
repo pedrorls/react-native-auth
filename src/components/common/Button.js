@@ -18,17 +18,15 @@ styles  = {
     buttonStyle: {
         flex: 1,
         alignSelf: 'stretch',
-        backgroundColor: '#FFF',
-        borderRadius: 5,
-        borderWidth: 1,
-        borderColor: '#007AFF',
+        backgroundColor: '#2BA5AA',
+        borderRadius: 3,
         marginLeft: 5,
         marginRight: 5,
     },
 
     buttonTextStyle: {
         alignSelf: 'center',
-        color: '#007AFF',
+        color: '#FFF',
         fontSize: 16,
         fontWeight: '600',
         paddingTop: 10,
